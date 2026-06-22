@@ -1,7 +1,6 @@
 <div align="center">
 
-## Luis Federico Sánchez Bustamante
-### ⚙️ Systems & AI Tooling &nbsp;·&nbsp; 42 Urduliz &nbsp;·&nbsp; Bilbao 🌊
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Luis%20Federico%20S%C3%A1nchez&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Systems%20%26%20AI%20Tooling%20%7C%2042%20Urduliz%20%7C%20Bilbao&descAlignY=58&descSize=16&descColor=8b949e" />
 
 <br/>
 
@@ -84,8 +83,5 @@ Learning     42 trained me to find answers, not wait for them
 ---
 
 <div align="center">
-
-![footer](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_snake.svg)
-
-<sub>Always building. Always learning.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" />
 </div>
