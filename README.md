@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Luis%20Federico%20S%C3%A1nchez&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Student%20%40%2042%20Urduliz%20%C2%B7%20Bilbao%2C%20Basque%20Country&descAlignY=58&descSize=16&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Luis%20Federico%20S%C3%A1nchez&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Systems%20%26%20AI%20Tooling%20%7C%2042%20Urduliz%20%7C%20Bilbao&descAlignY=58&descSize=16&descColor=8b949e" />
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1f6feb&center=true&vCenter=true&width=500&lines=Low-level+C+programmer;42+student+%40+Urduliz;Building+everything+from+scratch;AI+%26+automation+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=1f6feb&center=true&vCenter=true&width=560&lines=Low-level+systems+programmer;C+%26+C%2B%2B+%7C+42+Urduliz+(CPP06-09);Built+a+web+server+from+scratch;Building+AI+automation+tools;Self-taught+%E2%80%94+everything+from+zero)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,25 +19,28 @@
 
 ### 🙋 About me
 
-Currently grinding through the **42** curriculum — a project-based, peer-evaluated school with no teachers and no lectures. Everything I know, I built it.
+I went through **42 Urduliz** — no teachers, no lectures, no handholding. Everything I know came from reading docs, failing, and fixing it myself. That's how I work.
 
-- 🛠️ Working mostly in **C** — memory management, processes, parsing
-- 🤖 Interested in **AI & automation**, and where technology is actually heading
-- 📍 Based in **Bilbao** — yes, the food is as good as they say
-- 🐕 Accompanied by a very opinionated black dog
+- ⚙️ Systems programmer — I like knowing what actually happens at the low level
+- 🌐 Built a full **HTTP/1.1 web server** in C++ from scratch (webserv)
+- 🤖 Drawn to **AI tooling & automation** — building things that make systems smarter
+- 🧩 Currently working on **ft_transcendence** — full-stack real-time web app
+- 📍 Based in **Bilbao**, Basque Country
 
 ---
 
-### 🔧 Skills
+### 🔧 Stack
 
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP%2F1.1-005C97?style=for-the-badge&logo=fastapi&logoColor=white)
+![Sockets](https://img.shields.io/badge/Sockets-1a1a2e?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 
@@ -45,12 +48,25 @@ Currently grinding through the **42** curriculum — a project-based, peer-evalu
 
 ### 📁 Projects
 
-| Project | Description | Language |
-|---------|-------------|----------|
-| [**libft**](https://github.com/luanch96/libft) | Custom C standard library built from scratch | C |
-| [**Minishell**](https://github.com/luanch96/MINISHELL-L) | Bash-like shell with parsing, pipes & builtins | C |
-| [**Philosopher**](https://github.com/luanch96/Philosopher) | Dining philosophers — threads & mutexes | C |
-| [**nasa-challenge-2025**](https://github.com/luanch96/nasa-challenge-2025) | Data Pathways to Healthy Cities | — |
+| Project | What it is | Stack | Status |
+|---------|-----------|-------|--------|
+| [**webserv**](https://github.com/luanch96/webserv) | HTTP/1.1 server — sockets, routing, CGI | C++ | ✅ Done |
+| [**ft_transcendence**](https://github.com/luanch96) | Real-time full-stack web app | C++ / JS | 🔨 In progress |
+| [**Minishell**](https://github.com/luanch96/MINISHELL-L) | Bash-like shell — parsing, pipes, builtins | C | ✅ Done |
+| [**Philosopher**](https://github.com/luanch96/Philosopher) | Dining philosophers — threads & mutexes | C | ✅ Done |
+| [**libft**](https://github.com/luanch96/libft) | C standard library rebuilt from scratch | C | ✅ Done |
+| [**nasa-challenge-2025**](https://github.com/luanch96/nasa-challenge-2025) | Data Pathways to Healthy Cities | — | ✅ Done |
+
+---
+
+### 🧠 What drives me
+
+```
+Systems      I want to understand how things work, not just use them
+AI tooling   Automation, LLM integrations, tools that actually save time
+Autonomy     I don't need to be told what to do — I figure it out
+Learning     42 trained me to find answers, not wait for them
+```
 
 ---
 
