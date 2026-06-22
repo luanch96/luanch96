@@ -1,33 +1,61 @@
-Hi there 👋
-- 📒 I’m currently studying at 42 Urduliz
-- 🌱 I’m currently learning Java, Python, linux & Web dev
-- 👯 I’m looking to collaborate on Projects and Hackathons
-- 💬 Ask me about anything
-- 👩‍💻 I'm a enthusiastic programmer (Still Student 🤫) 
-- 📫 How to reach me: Telegram ☝️
-- 😄 Username: HMAHD
+<div align="center">
 
-<h2 align="center">Github stats ⚓</h2>
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{HMAHD}/count.svg" alt="HMAHD :: Visitor's Count" /></p>
-<h4 align="center">Top langs 🪐</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMAHD&langs_count=10&theme=tokyonight&layout=compact" alt="HMAHD :: Top Langs" /></p>
-<h4 align="center">Profile stats 💪</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=HMAHD&show_icons=true&theme=tokyonight" alt="HMAHD :: Profile Stats" /></p>
+# Luis Federico Sánchez Bustamante
+### Student @ 42 Urduliz · Bilbao, Basque Country 🌊
 
+[![GitHub followers](https://img.shields.io/github/followers/luanch96?style=flat-square&color=0d1117&labelColor=161b22&label=followers)](https://github.com/luanch96)
+&nbsp;
+![Profile views](https://komarev.com/ghpvc/?username=luanch96&style=flat-square&color=0d1117&labelColor=161b22)
 
-<!---line break---->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
-<!---------contribute chart animate snake----------------->
-<p align="center" >
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-<hr color="navyblue">
-<p align="center">
-   <img align='center' src="https://i.ibb.co/fqMN3QP/technologist-desktop.gif" width="25%" alt="giphy">
-   <br>
-   <i>Dont Waste Time get back to work.</i>
-   <br>
-<br>	
+</div>
+
+---
+
+### About me
+
+Currently grinding through the 42 curriculum — a project-based, peer-evaluated school with no teachers and no lectures. Everything I know, I built it.
+
+- 🛠️ Working mostly in **C** right now — memory management, processes, parsing
+- 🤖 Interested in **AI, automation**, and where technology is actually heading
+- 📍 Based in **Bilbao** — yes, the food is as good as they say
+- 🐕 Accompanied by a very opinionated black dog
+
+---
+
+### Skills
+
+```
+Languages     C · Bash · (learning more)
+Tools         Git · GitHub · Linux · Terminal
+Concepts      Memory management · Processes · File descriptors
+Mindset       Peer learning · Self-directed · Problem-first
+```
+
+---
+
+### Projects
+
+| Project | Description | Language |
+|--------|-------------|----------|
+| [libft](https://github.com/luanch96/libft) | Custom C standard library built from scratch | C |
+| [Minishell](https://github.com/luanch96/MINISHELL-L) | Bash-like shell with parsing, pipes & builtins | C |
+| [Philosopher](https://github.com/luanch96/Philosopher) | Dining philosophers problem — threads & mutexes | C |
+| [nasa-challenge-2025](https://github.com/luanch96/nasa-challenge-2025) | Data Pathways to Healthy Cities | — |
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanch96&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luanch96&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Always building. Always learning.</sub>
+</div>
